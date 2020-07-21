@@ -1,0 +1,4 @@
+# 忽略所有的 .js的文件
+*.js
+#排除index.js
+!index.js
